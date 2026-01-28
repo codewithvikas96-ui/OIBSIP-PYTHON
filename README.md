@@ -37,11 +37,24 @@ This repo links to each project for easy navigation.
 4. ☁️ [Weather App](https://github.com/codewithvikas96-ui/Weather-App-PyQt5-.git)  
    Fetches real-time weather data using APIs and displays it in a user-friendly interface.
 
-5. 💬 Chat Application
-   Includes both client-server and browser-based chat applications for real-time communication.
-   - A. [Client-Server](https://github.com/codewithvikas96-ui/Client-Server-Chat-.git)
-   - B. [Browser based](https://github.com/codewithvikas96-ui/Browser-based-chat-application.git)
-   
+5. 💬 Chat Application  
+   A comprehensive project showcasing real-time communication using Python.  
+   It includes two different implementations to demonstrate versatility in chat systems:
+
+   - **A. [Client-Server Chat](https://github.com/codewithvikas96-ui/Client-Server-Chat-.git)**  
+     Built using Python’s `socket` library, this version demonstrates how a server can handle multiple clients simultaneously.  
+     Features:
+       - Multi-user support with concurrent connections  
+       - Text-based communication over TCP/IP  
+       - Simple command-line interface for sending and receiving messages  
+
+   - **B. [Browser-Based Chat Application](https://github.com/codewithvikas96-ui/Browser-based-chat-application.git)**  
+     Developed using Flask and WebSockets, this version runs directly in the browser.  
+     Features:
+       - Real-time messaging with WebSocket protocol  
+       - User-friendly web interface  
+       - Scalable design suitable for deployment on local or cloud servers  
+
 
 ---
 
