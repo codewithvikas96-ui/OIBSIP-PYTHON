@@ -37,7 +37,7 @@ This repo links to each project for easy navigation.
 4. ☁️ [Weather App](https://github.com/codewithvikas96-ui/Weather-App-PyQt5-.git)  
    Fetches real-time weather data using APIs and displays it in a user-friendly interface.
 
-5. 💬 [Chat Application]
+5. 💬 Chat Application 
    A [Client-Server](https://github.com/codewithvikas96-ui/Client-Server-Chat-.git)
    B [Browser based](https://github.com/codewithvikas96-ui/Browser-based-chat-application.git)
    Includes both client-server and browser-based chat applications for real-time communication.
